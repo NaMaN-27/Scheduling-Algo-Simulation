@@ -5,3 +5,6 @@ simulating Priority based preemptive scheduling algorithm in c++ .
 
 Overall workflow of the project is illustrated in the figure above.
 
+PROCESS :
+A process in this project is a “hypothetical” operating system abstraction that groups together multiple resources. A process is basically a program in execution. The execution of a process must progress in a sequential fashion. 
+
