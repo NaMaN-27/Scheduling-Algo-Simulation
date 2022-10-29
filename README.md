@@ -1,5 +1,5 @@
 # Scheduling-Algo-Simulation
-simulating Priority based preemptive scheduling algorithm in c++ .
+simulating Process scheduling algorithm in c++ .
 
 The main goal of this project is to develop Preemptive Kernel,   More specifically, we will:
 
@@ -33,6 +33,10 @@ ROUND ROBIN :
 ![image](https://user-images.githubusercontent.com/83614865/198856239-50bc71a9-35eb-4a01-abc4-b86d1806e001.png)
 
 
+
+
+
+Also Banker's Algorithm has been used for deadlock avoidance to find the safe sequence of the processes . In one of the file the test data has been taken sunch that it generates deadlock . 
 
 
 WORKFLOW :
